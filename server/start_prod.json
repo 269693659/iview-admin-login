@@ -1,0 +1,5 @@
+{
+  "name": "ms-admin",
+  "script": "./startx.sh",
+  "cwd": "./"
+}
